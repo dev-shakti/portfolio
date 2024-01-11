@@ -12,13 +12,6 @@ export const data=[
     },
     {
         id:2,
-        name:"Tech news app",
-        image:technews,
-        github:"https://github.com/dev-shakti/technews-app",
-        live:"https://dev-shakti.github.io/technews-app/",
-    },
-    {
-        id:3,
         name:"React Ecommerce app",
         image:ecommerce,
         github:"https://github.com/dev-shakti/React-Ecommerce-App",
